@@ -93,6 +93,7 @@ Keyframes for animation*/
 .card {
   display: flex;
   flex-basis: 400px;
+  flex-direction: column;
   margin: 12px;
   background: #fff;
   border-radius: 7px;
