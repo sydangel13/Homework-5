@@ -83,7 +83,8 @@ Keyframes for animation*/
 /* Cards! */
 .pricing{
   display:flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  /*flex-direction: column;*/
   min-height: 500px;
   align-items: center;
   justify-content: center;
